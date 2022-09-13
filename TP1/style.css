@@ -2,7 +2,7 @@
 *{
     margin: 0px;
     padding: 0px;
-    font-family: Avenir, sans-serif;
+    font-family: Georgia, serif;
 }
 
 nav{
@@ -39,11 +39,19 @@ nav a{
 }
 
 nav a:hover{
-    color: orange;
-    border-bottom: 2px solid gold;
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(0, 0, 0);
+    background-color: rgb(95, 168, 125);
 }
 
 .conteneur{
   margin: 0px 20px;
   height: 1500px;
+}
+
+.title
+{
+    background-color: rgb(182, 255, 214);
+    text-align: center;
+   
 }
