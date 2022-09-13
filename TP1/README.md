@@ -25,7 +25,7 @@ Le but de ce TP est de vous faire découvrir, pour certains, le monde du web alo
 - Moins de 5 `<div>` dans toute la page
 - Créer une animation qui rentre dans le thème de votre CV et qui ne cause pas de crise d’épilepsie
 - Une image de préférence de vous
-- L’integration habile d’une vidéo ou d’un son/musique qui correspond à vos centres d’interet. (utiliser les balises <video> ou <audio> pas d’iframe youtube ou d'autres plateformes média)
+- L’integration habile d’une vidéo ou d’un son/musique qui correspond à vos centres d’interet. (utiliser les balises `<video>` ou `<audio>` pas d’iframe youtube ou d'autres plateformes média)
 
 
 ## Première étape:
