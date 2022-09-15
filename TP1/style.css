@@ -46,8 +46,18 @@ nav a:hover{
 
 .conteneur{
   margin: 0px 20px;
-  height: 1500px;
+  height: 150px;
 }
+
+.conteneur2{
+    margin: 0px 20px;
+    height: 150px;
+  }
+
+  .conteneur3{
+    margin: 0px 20px;
+    height: 150px;
+  }
 
 .title
 {
@@ -65,3 +75,5 @@ img {
     margin-left: 80px;
     
   }
+
+                                                                                   
