@@ -41,17 +41,39 @@ nav a{
 nav a:hover{
     color: rgb(0, 0, 0);
     border-bottom: 2px solid rgb(0, 0, 0);
-    background-color: rgb(95, 168, 125);
+    background-color: rgb(73, 182, 171);
 }
 
 .conteneur{
   margin: 0px 20px;
-  height: 1500px;
+  height: 150px;
 }
+
+.conteneur2{
+    margin: 0px 20px;
+    height: 150px;
+  }
+
+  .conteneur3{
+    margin: 0px 20px;
+    height: 150px;
+  }
 
 .title
 {
-    background-color: rgb(182, 255, 214);
+    background-color: rgb(44, 120, 112);
     text-align: center;
-   
+    padding-top: 100px;
+    padding-bottom: 100px;
+    font-size: 30px;
 }
+img {
+    border-radius: 50%;
+    height: 200px;
+    float: left;
+    margin-top:-135px;
+    margin-left: 80px;
+    
+  }
+
+                                                                                   
