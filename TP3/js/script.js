@@ -26,6 +26,7 @@ function start() {
       document.getElementById('today-forecast-temp').innerHTML = `${temp}°C`;
       
     })
+    .fetchThree
     .catch(function(error) {
       // Affiche une erreur
       console.error(error);
